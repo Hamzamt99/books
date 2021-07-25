@@ -1,7 +1,7 @@
 alert("Hey! wlecome to jamalon website " )
 
 var book = prompt("what is the book you looking for?")
-
+function user(book){
 
 if(book == "Harry potter books"){
 document.write(
@@ -17,3 +17,15 @@ document.write(
 else{
   alert('sorry this book didnt arrive yet ')
 }
+}
+user(book);
+
+function days(){
+  alert('How many left in the stock of' +book)
+  const n = 3;
+  for (let i = 1; i <= n; i++) {
+    
+    alert(i)
+  }
+}
+  days();
