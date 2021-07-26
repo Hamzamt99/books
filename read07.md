@@ -1,28 +1,19 @@
-# Whats is CSS :
+# Whats is JS :
 
-![CSS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyyiLBkeO-4VUYMuE0RPiaexIpXt66NGypA&usqp=CAU)
+![JS](https://www.w3schools.com/whatis/img_js.png)
 
- *(Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood?
- This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.*
- ## How to create a website using HTML and CSS (table of contents):
+ *JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area..*
+ ## What can JavaScript Do?:
  
-+ Learn the basics of HTML.
++ JavaScript Can Change HTML Content
  
-+ Understand HTML document structure.
++ JavaScript Can Change HTML Attribute Values
 
-+ Get to know CSS selectors.
++ JavaScript Can Change HTML Styles (CSS)
 
-+ Put a CSS stylesheet together.
++ JavaScript Can Hide HTML Elements
 
-+ Get Bootstrap.
++ JavaScript Can Show HTML Elements
 
-+ Pick a design.
- 
-+ Customize your website with HTML and CSS.
 
-### CSS colors : 
-Color Names Supported by All Browsers
-All modern browsers support the following 140 color names:
-
-[Colors](https://www.w3schools.com/cssref/css_colors.asp)
 
